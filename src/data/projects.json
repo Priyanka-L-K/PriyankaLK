@@ -1,0 +1,167 @@
+{
+  "all_projects": [
+    {
+      "name": "Projects",
+      "projects": [
+        {
+          "id": "0",
+          "category":"Projects",
+          "project_name": "Recommendation System",
+          "heading": "Recommendation System with Deep Learning",
+          "tagline": "Unleashing Deep Learning for Personalized Recommendations",
+          "thumbnail": "https://i.postimg.cc/kgQGN2Cm/project1.png",
+          "startDate": "May 2022",
+          "languages": ["Python", "Deep Learning"],
+          "tools": ["Jupyter"],
+          "libraries": ["keras", "tensorflow", "pandas", "matplotlib", "NumPy"],
+          "links": [
+            {
+              "icon": "ieee",
+              "linkname": "IEEE Publication",
+              "website_link": "https://ieeexplore.ieee.org/document/10054275",
+              "color": "#292929"
+            },
+            {
+              "icon": "kaggle",
+              "linkname": "kaggle",
+              "website_link": "https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset",
+              "color": "#20BEFF"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/kgQGN2Cm/project1.png",
+          "features": [
+            "<strong>Deep Learning Models:</strong> Utilizing Deep Neural Networks (DNNs), Restricted Boltzmann Machines (RBMs), and Autoencoders as the core recommendation algorithms, allowing for comprehensive exploration of different approaches within deep learning.",
+            "<strong>Implicit and Explicit Feedback:</strong> Handling both implicit feedback (e.g., user interactions like clicks and views) and explicit feedback (e.g., user ratings) to provide well-rounded recommendations.",
+            "<strong>Latent Representations:</strong> Extracting latent representations of users and items using deep learning techniques, enabling the models to capture intricate patterns and relationships in the data.",
+            "<strong>Cold Start Handling:</strong> Addressing the cold start problem by implementing strategies that allow the models to provide recommendations for new users and items with limited historical data."
+          ],
+          "project_impact": "As the developer of this recommendation system project with deep learning, this endeavor has profoundly shaped my professional journey. It's been a crucible for advancing my skills in machine learning and neural networks, propelling me forward in my career. The constant innovation and intricate problem-solving required have kept me intellectually engaged and driven, while collaborative efforts with diverse experts have broadened my horizons. The sense of ownership over the project, coupled with the tangible impact on user experiences and business outcomes, fuels my passion for this work. The ability to quantify success through metrics and the continuous learning opportunities have been invaluable, making this project a pivotal chapter in my development career, fostering personal and professional growth."
+        },
+        {
+          "id": "1",
+          "category":"Projects",
+          "project_name": "Restaurant Website",
+          "heading": "Restaurant Database Management System",
+          "tagline": "Elevating Restaurant Efficiency with Data Expertise",
+          "thumbnail": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
+          "startDate": "January 2021",
+          "languages": ["HTML", "CSS", "PHP", "JavaScript", "SQL"],
+          "tools": ["XAMPP"],
+          "libraries": ["Sublime Text"],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/Priyanka-L-K/Restaurant-Website",
+              "color": "#292929"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
+          "features": [
+            "<strong>Menu Management: </strong> Easily create, update, and manage the restaurant's menu items, including details like names, descriptions, prices, ingredients, and availability status.",
+            "<strong>Order Processing: </strong> Streamline the order-taking process, from receiving customer orders through various channels (dine-in, takeout, online) to sending them to the kitchen or bar for preparation.",
+            "<strong>Inventory Control: </strong> Keep track of ingredient and supply levels in real-time to ensure items are in stock and prevent overstocking or understocking issues. Automatic alerts for low stock can be useful.",
+            "<strong>Customer Management:  </strong> Maintain customer profiles, order histories, and preferences to offer personalized services and promotions. Collect feedback and reviews to improve customer satisfaction.",
+            "<strong>Employee Management: </strong> Manage staff schedules, roles, and access permissions. Track hours worked, payroll, and tips distribution."
+          ],
+          "project_impact": "In this project, I harnessed a diverse set of technologies to build a robust Restaurant Database Management System. SQL served as the backbone for database management, enabling efficient data storage and retrieval. PHP was the engine behind the dynamic server-side logic, facilitating real-time data processing. The XAMPP stack provided a stable development environment for testing and deployment. For the user interface, HTML and CSS were used to create the structure and style of web pages, while JavaScript added interactivity and enhanced user experience. This comprehensive tech stack allowed me to create a powerful and user-friendly system tailored to the specific needs of restaurant management."
+        },
+        {
+          "id": "2",
+          "category":"Projects",
+          "project_name": "Used Car Price Prediction",
+          "heading": "AutoPricePredict: Used Car Price Forecasting",
+          "tagline": "Predicting Used Car Prices with Machine Learning",
+          "thumbnail": "https://i.postimg.cc/g0gFyWBs/project2.png",
+          "startDate": "August 2020",
+          "languages": ["python", "Machine Learning"],
+          "tools": ["Jupyter", "Sublime Text"],
+          "libraries": ["pandas", "NumPy", "scikit-learn", "matplotlib"],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/Priyanka-L-K/Used-car-prices-prediction/tree/main",
+              "color": "#292929"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/g0gFyWBs/project2.png",
+          "features": [
+            "<strong>Data Collection:</strong> The project gathers comprehensive data on used cars from various sources, including attributes like make, model, year, mileage, and condition.",
+            "<strong>Machine Learning Models: </strong> It employs machine learning algorithms to build predictive models for estimating used car prices, enabling accurate pricing predictions.",
+            "<strong>Data Preprocessing:  </strong> Extensive data preprocessing techniques are applied to clean and prepare the dataset, ensuring data quality and model effectiveness.",
+            "<strong>Model Evaluation: </strong> Rigorous model evaluation is conducted using metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) to assess prediction accuracy.",
+            "<strong>Continuous Learning: </strong> The project is structured to facilitate ongoing learning and model improvement as new data becomes available and as machine learning techniques evolve."
+          ],
+          "project_impact": "This project has had a profound impact on my skills and knowledge. Working on AutoPrice: Predicting Used Car Prices has allowed me to deepen my understanding of machine learning algorithms, data preprocessing techniques, and model evaluation. I've honed my skills in Python programming, data manipulation, and feature engineering. Additionally, I've gained valuable experience in data visualization to communicate results effectively. Furthermore, the project has improved my ability to handle large datasets and implement complex machine learning models. Overall, AutoPrice has significantly enhanced my proficiency in machine learning and data science, making me better equipped to tackle real-world predictive modeling challenges."
+        },
+        {
+          "id": "3",
+          "category":"Projects",
+          "project_name": "Parking Management System",
+          "heading": "MavPark: Parking Management System ",
+          "tagline": "YSimplifying Urban Mobility One Spot at a Time.",
+          "thumbnail": "https://i.postimg.cc/W3w4R3Sv/Screen-Shot-2023-09-23-at-8-24-39-PM.png",
+          "startDate": "May 2022",
+          "languages": ["HTML", "CSS", "PHP", "JavaScript"],
+          "tools": ["Selenium", "Git", "XAMPP", "Sublime Text", "Visual Studio Code"],
+          "libraries": [
+            "Agile"
+          ],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/Priyanka-L-K/ParkingManagementSystem",
+              "color": "#292929"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/W3w4R3Sv/Screen-Shot-2023-09-23-at-8-24-39-PM.png",
+          "features": [
+            "<strong>Parking Space Management: </strong> The application should have the ability to manage and monitor parking spaces, including real-time updates on availability, occupancy, and duration of use.",
+            "<strong>User Registration: </strong> Users should be able to register with the application, which can include creating an account and providing necessary information such as name, email address, and payment information.",
+            "<strong>Parking Space Search and Reservation: </strong> The application should provide users with an easy-to-use search interface to find available parking spaces, reserve parking spots, and make payments.",
+            "<strong>Scalability:</strong> The Parking Web Application must be designed to be scalable and have the ability to handle a high volume of users.",
+            "<strong>Customer Support:</strong> The application should have a customer support system in place to help users with any questions or issues they may have.",
+            "<strong>Mobile-Friendly Interface:</strong> The application should have a mobile-friendly interface, allowing users to search for parking spaces and make reservations on-the-go."
+          ],
+          "project_impact": "In this project I delved into a diverse set of technologies, mastering the intricacies of HTML, CSS, PHP, JavaScript, Selenium for testing automation, and version control with Git. Leveraging tools like XAMPP, Sublime Text, and Visual Studio Code, I've honed my skills in web development and software engineering. Moreover, I've embraced modern development methodologies, particularly Agile, to efficiently manage the project's development cycle. This multifaceted experience has not only expanded my technical repertoire but also equipped me with a holistic understanding of project management, teamwork, and the satisfaction of bringing a complex, real-world solution to fruition."
+        },
+        {
+          "id": "4",
+          "category":"Projects",
+          "project_name": "Airplane Crash Simulation",
+          "heading": "Airplane Crash Simulation",
+          "tagline": "OpenGL Simulation of Airplane Crash.",
+          "thumbnail": "https://i.postimg.cc/C5rR8X89/Screen-Shot-2023-09-23-at-11-26-14-PM.png",
+          "startDate": "May 2021",
+          "languages": ["C", "OpenGL"],
+          "tools": ["Xcode"],
+          "libraries": ["GLUT Toolkit", "GLU"],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/Priyanka-L-K/Airplane-Crash-Simulation",
+              "color": "#292929"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/C5rR8X89/Screen-Shot-2023-09-23-at-11-26-14-PM.png",
+          "features": [
+            "<strong>Aircraft Animation:</strong> This project showcases an animated depiction of an aircraft's takeoff. The aircraft is represented using basic geometric shapes and moves horizontally across the screen to simulate a liftoff.",
+            "<strong>Multi-Scene Display: The project incorporates multiple scenes, each representing a different stage of the animation. The first scene portrays the aircraft's takeoff, while the second displays a segment of the cityscape. The third scene provides a panoramic view of the entire cityscape.",
+            "<strong>Road and Runway Simulation:</strong> The visual composition incorporates a simulated road and runway, with white strips resembling runway markings. These elements create the illusion of an aircraft taxing along a runway.",
+            "<strong>Cityscape Representation:</strong> The project introduces a rudimentary cityscape featuring buildings with multiple floors and windows. These buildings are depicted using a simplified geometric style.",
+            "<strong>OpenGL Utilization:</strong> The project relies on the OpenGL graphics library for rendering and animating the graphical elements."
+          ],
+          "project_impact": "This simulation has deepened my expertise in graphics programming, providing a hands-on education in OpenGL, rendering pipelines and 3D visualization. I've gained proficiency in solving complex problems related to graphics and honed my debugging skills. This project has not only improved my technical abilities but also instilled best practices in software engineering, emphasizing code organization and modularity. Additionally, I've gained valuable experience in project management. Creatively, this project allowed me to experiment with visual design and effects. Overall, it has enriched my portfolio, demonstrating my competence in graphics programming and equipping me with a broader skill set for future projects."
+        }
+      ]
+    },
+    {
+      "projects": [
+        
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+
+  .leetcode-card {
+    color: white !important;
+    border: none !important;
+    border-radius: 12px;
+    height: 10vh;
+    margin-top: 20px;
+  }
+  
+  .leetcode-card__text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0.4;
+    font-size: xx-large;
+    font-weight: bold;
+    position: relative;
+    left: -10px;
+    text-align: left;
+  }
+  
+  .leetcode-card__number {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 1;
+    font-size: x-large;
+    font-weight: bold;
+    float: right;
+  }
+  
+  .leetcode__icon {
+    transform: rotate(45deg);
+    transform-origin: 0 0;
+    position: relative;
+    left: 25px;
+    bottom: 15px;
+    opacity: 0.5;
+  }
+
+  .leetcode-card--easy {
+    background-image: linear-gradient(to right, rgb(111, 216, 155), rgb(64, 167, 141));
+ 
+  }
+  
+  .leetcode-card--medium {
+    background-image: linear-gradient(to right, #f5c96b, #ffc446);
+  }
+  
+  .leetcode-card--hard {
+    background-image: linear-gradient(to right, #df6f53, #d65332);
+  }
+  
+
+  

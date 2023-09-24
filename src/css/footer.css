@@ -1,0 +1,32 @@
+
+.footer-container{
+    max-width: 100%;
+    margin-top: 100px;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 5px rgb(212, 212, 212);
+    font-family: monospace;  
+    overflow: hidden;
+}
+
+.footer-content{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a{
+    text-decoration: none;
+    color:none;
+}
+
+@media(max-width:1300px){
+    .footer-container{
+    font-size: 1.5vw;
+    }
+
+    .footer-content{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

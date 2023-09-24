@@ -1,0 +1,36 @@
+.project-card {
+    padding: 16px;
+    box-shadow: 3px 3px 20px rgb(212, 212, 212);
+    border-radius: 12px;
+    border: 0 !important;
+}
+
+.project-card__image {
+    border-radius: 14px;
+    box-shadow: 0px 0px 2px rgb(212, 212, 212);
+    border: 0.5px solid rgb(230, 230, 230);
+}
+
+.project-card__tag {
+    color: rgb(99, 99, 99);
+    font-size: 12px;
+}
+
+.project-card__title {
+    color: rgb(66, 66, 66);
+    font-size: 16px;
+}
+
+.project-card__body {
+    padding-bottom: 0px;
+
+}
+
+
+@media (max-width: 768px) {
+    .project-card__title {
+        font-size: small;
+    }
+
+
+}

@@ -1,0 +1,53 @@
+{
+    "education": [
+        {
+            "school_name": "University of Texas at Arlington",
+            "degree":"Masters of Science",
+            "major":"Computer Science",
+            "end_date": "May 2024",
+            "courses":["Machine Learning", "Full stack development", "Data Analysis and Modelling Techniques", "Database Systems", "Design and Analysis of Algorithms", "Python", "Advanced Software Engineering"],
+            "cgpa":"3.8/4",
+            "achievement":"Student Marshal of the IT department for the academic year    ",
+            "links": [
+                {
+                    "icon": "university",
+                    "linkname": "University website",
+                    "website_link": "https://www.uta.edu/",
+                    "color": "#868686"
+                }]
+        },
+        {
+            "school_name": "BNM institute of Technology",
+            "degree":"Bachelors of Science",
+            "major":"Computer Science",
+            "end_date": "May 2022",
+            "courses":["Full Stack Development", "Algorithms", "Artificial Intelligence", "Big Data Analytics", 
+                "Data Mining", "Natural Language Processing", "Computer Networks", "Python", "C", "C++", "Java", "User Interface Design", "Mobile Application Development"],
+            "cgpa":"3.58/4.0",
+            "achievement":"Gave guest lecture to students on Game Developement",
+            "links": [
+                {
+                    "icon": "university",
+                    "linkname": "University Website",
+                    "website_link": "https://www.bnmit.org/",
+                    "color": "#868686"
+                }]
+        }
+    ], 
+    "certifications":[
+        {
+            "name":"AWS Technical Essentials and Architecting Course",
+            "end_date":"June 2019",
+            "institute": "Amazon Web Services - Ethnus",
+            "Score":"90.4%"
+        }
+    ],
+    "publications":[
+        {
+            "name": "Recommendation System Using Deep Learning",
+            "end_date":"August 2022",
+            "institute": "IEEE Xplore",
+            "conference": "2022 IEEE 7th International Conference on Recent Advances and Innovations in Engineering (ICRAIE)"
+        }
+    ]
+}

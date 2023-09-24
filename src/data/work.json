@@ -1,0 +1,81 @@
+{
+    "works": [
+        {
+            "_id": 0,
+            "company_name": "Aspen Technology, Houston",
+            "role_name": "Software Developer Intern",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "achievements": [
+                "Led the comprehensive end-to-end development of a dynamic Proof of Concept (POC) initiative, skillfully integrating cutting-edge machine learning and AI technologies to the AspenTech product.",
+                "Collaborated seamlessly with cross-functional teams to pinpoint innovative prospects within the existing product framework, establishing a bedrock for substantial amplification of business value.",
+                "Formulated and honed machine learning algorithms and Artificial Intelligence within the product leading to increased efficiency with 10% reduction in losses, cost optimization and refined the decision-making process.",
+                "Executed the creation of an intuitive user interface through PyQt5, adeptly bridging the divide between intricate technical facets and user-friendly accessibility.",
+                "Earned recognition for the prototype's prowess in elevating business value through the strategic infusion of emergent technologies." 
+            ],
+            "languages": [
+                "Python", "PyQt5"
+            ],
+            "tools": [
+              "Visual Studio Code", "Jupyter"
+            ],
+            "libraries": [
+                "scikit-learn",
+                "matplotlib",
+                "seaborn",
+                "pandas",
+                "NumPy"
+            ],
+            "links": [
+                {
+                    "icon": "university",
+                    "linkname": "company website",
+                    "website_link": "https://www.aspentech.com/en/",
+                    "color": "#868686"
+                },
+                {
+                    "icon": "blog",
+                    "linkname": "blog",
+                    "website_link": "https://www.aspentech.com/en/blog",
+                    "color": "#868686"
+                },
+                {
+                    "icon": "news",
+                    "linkname": "news",
+                    "website_link": "https://www.aspentech.com/en/news-listing",
+                    "color": "#868686"
+                }
+            ]
+        },
+        {
+            "_id": 1,
+            "company_name": "Sparks Foundation, India",
+            "role_name": "Data Science Intern",
+            "start_date": "July 2021",
+            "end_date": "Aug 2021",
+            "achievements": [
+                "Involved in building and fine-tuning machine learning models. This included selecting appropriate algorithms, optimizing hyperparameters, and enhancing model performance.",
+                "gained proficiency in data collection, preprocessing, and cleaning. This involved working with large datasets, ensuring data quality, and transforming data into a suitable format for analysis.",
+                "Applied various data analysis techniques to extract meaningful insights from complex datasets. This included statistical analysis, feature engineering, and data visualization."
+            ],
+            "impact": "impacts",
+            "languages": ["Python"],
+            "tools": ["Jupyter", "Visual Studio Code"],
+            "libraries": [
+                "scikit-learn",
+                "matplotlib",
+                "seaborn",
+                "pandas",
+                "NumPy"
+            ],
+            "links": [
+                {
+                    "icon": "university",
+                    "linkname": "company website",
+                    "website_link": "https://www.thesparksfoundationsingapore.org/",
+                    "color": "#868686"
+                }
+            ]
+        }
+    ]
+}

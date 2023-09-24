@@ -1,0 +1,148 @@
+/* Profile Picture */
+.profile-pic {
+  border-radius: 50%;
+  height: 255px;
+  width: 255px;
+  float: right;
+  margin-left: 5vw;
+  padding: 10px;
+}
+
+/* Home Parent Container */
+.home-parent-container {
+  padding-right: 10vw;
+  padding-left: 10vw;
+}
+
+/* Home Container */
+.home-container {
+  display: flex;
+  padding-top: 8vh;
+  font-family: monospace;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Hello, I am Text */
+.helloiam {
+  font-size: 1.5em;
+}
+
+/* My Name Text */
+.myname {
+  font-size: 2.5em;
+  font-weight: 520;
+}
+
+/* Role Name Text */
+.rolename {
+  font-size: x-large;
+}
+
+/* Link Button */
+.link-button {
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 8px;
+  margin-right: 2vh;
+  box-shadow: 0px 0px 5px rgb(194, 194, 194);
+}
+
+/* About Me Section */
+.about-me {
+  width: 60%;
+}
+
+/* Skills Section */
+.skills {
+  width: 35%;
+}
+
+/* Section Height */
+.section-height {
+  min-height: 650px;
+}
+
+/* Left Section */
+.left-section {
+  margin-right: 4vw;
+}
+
+/* Columns */
+.columns {
+  display: flex;
+}
+
+/* Media Queries for Responsive Design */
+@media (min-width: 1600px) {
+  .home-parent-container {
+    padding-left: 16vw;
+    padding-right: 16vw;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Columns become a block element */
+  .columns {
+    display: block;
+  }
+
+  /* Profile Picture adjustments */
+  .profile-pic {
+    margin-top: 0;
+    margin-left: 10px;
+    height: 90px;
+    width: 90px;
+  }
+
+  /* Full-width for About Me and Skills sections */
+  .about-me,
+  .skills {
+    width: 100%;
+  }
+
+  /* Adjustments for smaller screens */
+  .left-section {
+    margin-right: 0;
+  }
+
+  /* Remove minimum height for sections */
+  .section-height {
+    min-height: 0px;
+  }
+
+  /* Link Button adjustments */
+  .link-button {
+    border-radius: 8px;
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    margin-top: 1vh;
+  }
+
+  /* Smaller font size for Hello, I am text */
+  .helloiam {
+    font-size: small;
+  }
+
+  /* Adjusted font size and line height for My Name text */
+  .myname {
+    font-size: x-large;
+    line-height: auto;
+    line-height: 24px;
+    font-weight: 500;
+  }
+
+  /* Smaller font size for Role Name text */
+  .rolename {
+    font-size: x-small;
+  }
+
+  /* Increased padding for Home Container */
+  .home-container {
+    padding-top: 15vh;
+  }
+}
