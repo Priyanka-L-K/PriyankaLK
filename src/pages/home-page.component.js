@@ -20,7 +20,7 @@ const Home = () => {
 
     const languages = ["Python", "C", "C++", "Java"]
     const halfLanguages = ["JavaScript"]
-    const webTechnolgies = ["HTML", "CSS", "PHP"]
+    const webTechnolgies = ["HTML", "CSS", "PHP", "PyQt5"]
     const halfWebTechnolgies = ["React", "JavaScript"]
     const cloudTechnologies = ["AWS"]
     const dataScience = ["Data Analysis", "Data Visualization", "Data Modelling"]
