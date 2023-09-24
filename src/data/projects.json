@@ -38,7 +38,7 @@
           "project_impact": "As the developer of this recommendation system project with deep learning, this endeavor has profoundly shaped my professional journey. It's been a crucible for advancing my skills in machine learning and neural networks, propelling me forward in my career. The constant innovation and intricate problem-solving required have kept me intellectually engaged and driven, while collaborative efforts with diverse experts have broadened my horizons. The sense of ownership over the project, coupled with the tangible impact on user experiences and business outcomes, fuels my passion for this work. The ability to quantify success through metrics and the continuous learning opportunities have been invaluable, making this project a pivotal chapter in my development career, fostering personal and professional growth."
         },
         {
-          "id": "1",
+          "id": "2",
           "category":"Projects",
           "project_name": "Restaurant Website",
           "heading": "Restaurant Database Management System",
@@ -67,7 +67,7 @@
           "project_impact": "In this project, I harnessed a diverse set of technologies to build a robust Restaurant Database Management System. SQL served as the backbone for database management, enabling efficient data storage and retrieval. PHP was the engine behind the dynamic server-side logic, facilitating real-time data processing. The XAMPP stack provided a stable development environment for testing and deployment. For the user interface, HTML and CSS were used to create the structure and style of web pages, while JavaScript added interactivity and enhanced user experience. This comprehensive tech stack allowed me to create a powerful and user-friendly system tailored to the specific needs of restaurant management."
         },
         {
-          "id": "2",
+          "id": "4",
           "category":"Projects",
           "project_name": "Used Car Price Prediction",
           "heading": "AutoPricePredict: Used Car Price Forecasting",
@@ -96,7 +96,7 @@
           "project_impact": "This project has had a profound impact on my skills and knowledge. Working on AutoPrice: Predicting Used Car Prices has allowed me to deepen my understanding of machine learning algorithms, data preprocessing techniques, and model evaluation. I've honed my skills in Python programming, data manipulation, and feature engineering. Additionally, I've gained valuable experience in data visualization to communicate results effectively. Furthermore, the project has improved my ability to handle large datasets and implement complex machine learning models. Overall, AutoPrice has significantly enhanced my proficiency in machine learning and data science, making me better equipped to tackle real-world predictive modeling challenges."
         },
         {
-          "id": "3",
+          "id": "1",
           "category":"Projects",
           "project_name": "Parking Management System",
           "heading": "MavPark: Parking Management System ",
@@ -128,7 +128,7 @@
           "project_impact": "In this project I delved into a diverse set of technologies, mastering the intricacies of HTML, CSS, PHP, JavaScript, Selenium for testing automation, and version control with Git. Leveraging tools like XAMPP, Sublime Text, and Visual Studio Code, I've honed my skills in web development and software engineering. Moreover, I've embraced modern development methodologies, particularly Agile, to efficiently manage the project's development cycle. This multifaceted experience has not only expanded my technical repertoire but also equipped me with a holistic understanding of project management, teamwork, and the satisfaction of bringing a complex, real-world solution to fruition."
         },
         {
-          "id": "4",
+          "id": "3",
           "category":"Projects",
           "project_name": "Airplane Crash Simulation",
           "heading": "Airplane Crash Simulation",
