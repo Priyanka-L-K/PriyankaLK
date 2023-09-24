@@ -72,35 +72,6 @@
         {
           "id": "2",
           "category":"Projects",
-          "project_name": "Restaurant Website",
-          "heading": "Restaurant Database Management System",
-          "tagline": "Efficiency Served Fresh: Elevating Restaurant Efficiency with the Fresh Flavor of Data Expertise",
-          "thumbnail": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
-          "startDate": "January 2021",
-          "languages": ["HTML", "CSS", "PHP", "JavaScript", "SQL"],
-          "tools": ["XAMPP"],
-          "libraries": ["Sublime Text"],
-          "links": [
-            {
-              "icon": "github",
-              "linkname": "github",
-              "website_link": "https://github.com/Priyanka-L-K/Restaurant-Website",
-              "color": "#292929"
-            }
-          ],
-          "main_image": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
-          "features": [
-            "<strong>Menu Management: </strong> Easily create, update, and manage the restaurant's menu items, including details like names, descriptions, prices, ingredients, and availability status.",
-            "<strong>Order Processing: </strong> Streamline the order-taking process, from receiving customer orders through various channels (dine-in, takeout, online) to sending them to the kitchen or bar for preparation.",
-            "<strong>Inventory Control: </strong> Keep track of ingredient and supply levels in real-time to ensure items are in stock and prevent overstocking or understocking issues. Automatic alerts for low stock can be useful.",
-            "<strong>Customer Management:  </strong> Maintain customer profiles, order histories, and preferences to offer personalized services and promotions. Collect feedback and reviews to improve customer satisfaction.",
-            "<strong>Employee Management: </strong> Manage staff schedules, roles, and access permissions. Track hours worked, payroll, and tips distribution."
-          ],
-          "project_impact": "In this project, I harnessed a diverse set of technologies to build a robust Restaurant Database Management System. SQL served as the backbone for database management, enabling efficient data storage and retrieval. PHP was the engine behind the dynamic server-side logic, facilitating real-time data processing. The XAMPP stack provided a stable development environment for testing and deployment. For the user interface, HTML and CSS were used to create the structure and style of web pages, while JavaScript added interactivity and enhanced user experience. This comprehensive tech stack allowed me to create a powerful and user-friendly system tailored to the specific needs of restaurant management."
-        },
-        {
-          "id": "3",
-          "category":"Projects",
           "project_name": "Airplane Crash Simulation",
           "heading": "Airplane Crash Simulation",
           "tagline": "OpenGL Simulation of Airplane Crash.",
@@ -126,6 +97,35 @@
             "<strong>OpenGL Utilization:</strong> The project relies on the OpenGL graphics library for rendering and animating the graphical elements."
           ],
           "project_impact": "This simulation has deepened my expertise in graphics programming, providing a hands-on education in OpenGL, rendering pipelines and 3D visualization. I've gained proficiency in solving complex problems related to graphics and honed my debugging skills. This project has not only improved my technical abilities but also instilled best practices in software engineering, emphasizing code organization and modularity. Additionally, I've gained valuable experience in project management. Creatively, this project allowed me to experiment with visual design and effects. Overall, it has enriched my portfolio, demonstrating my competence in graphics programming and equipping me with a broader skill set for future projects."
+        },
+        {
+          "id": "3",
+          "category":"Projects",
+          "project_name": "Restaurant Website",
+          "heading": "Restaurant Database Management System",
+          "tagline": "Efficiency Served Fresh: Elevating Restaurant Efficiency with the Fresh Flavor of Data Expertise",
+          "thumbnail": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
+          "startDate": "January 2021",
+          "languages": ["HTML", "CSS", "PHP", "JavaScript", "SQL"],
+          "tools": ["XAMPP"],
+          "libraries": ["Sublime Text"],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/Priyanka-L-K/Restaurant-Website",
+              "color": "#292929"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
+          "features": [
+            "<strong>Menu Management: </strong> Easily create, update, and manage the restaurant's menu items, including details like names, descriptions, prices, ingredients, and availability status.",
+            "<strong>Order Processing: </strong> Streamline the order-taking process, from receiving customer orders through various channels (dine-in, takeout, online) to sending them to the kitchen or bar for preparation.",
+            "<strong>Inventory Control: </strong> Keep track of ingredient and supply levels in real-time to ensure items are in stock and prevent overstocking or understocking issues. Automatic alerts for low stock can be useful.",
+            "<strong>Customer Management:  </strong> Maintain customer profiles, order histories, and preferences to offer personalized services and promotions. Collect feedback and reviews to improve customer satisfaction.",
+            "<strong>Employee Management: </strong> Manage staff schedules, roles, and access permissions. Track hours worked, payroll, and tips distribution."
+          ],
+          "project_impact": "In this project, I harnessed a diverse set of technologies to build a robust Restaurant Database Management System. SQL served as the backbone for database management, enabling efficient data storage and retrieval. PHP was the engine behind the dynamic server-side logic, facilitating real-time data processing. The XAMPP stack provided a stable development environment for testing and deployment. For the user interface, HTML and CSS were used to create the structure and style of web pages, while JavaScript added interactivity and enhanced user experience. This comprehensive tech stack allowed me to create a powerful and user-friendly system tailored to the specific needs of restaurant management."
         },
         {
           "id": "4",
