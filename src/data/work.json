@@ -5,13 +5,12 @@
             "company_name": "Aspen Technology, Houston",
             "role_name": "Software Developer Intern",
             "start_date": "May 2023",
-            "end_date": "Present",
+            "end_date": "August 2023",
             "achievements": [
-                "Led the comprehensive end-to-end development of a dynamic Proof of Concept (POC) initiative, skillfully integrating cutting-edge machine learning and AI technologies to the AspenTech product.",
-                "Collaborated seamlessly with cross-functional teams to pinpoint innovative prospects within the existing product framework, establishing a bedrock for substantial amplification of business value.",
-                "Formulated and honed machine learning algorithms and Artificial Intelligence within the product leading to increased efficiency with 10% reduction in losses, cost optimization and refined the decision-making process.",
-                "Executed the creation of an intuitive user interface through PyQt5, adeptly bridging the divide between intricate technical facets and user-friendly accessibility.",
-                "Earned recognition for the prototype's prowess in elevating business value through the strategic infusion of emergent technologies." 
+                "Implemented a proof of concept (POC) prototype for an early warning system, achieving a 10% reduction in offspec production and demonstrated its success through precise alerts for process health, contributing to continuous optimization.",
+                "Engineered a proactive Machine Learning optimization algorithm, by integrating Artificial Intelligence capabilities to enable continuous optimization of operations and providing actionable insights to address potential issues before impacting production KPIs.",
+                "Integrated and tested the prototype built using PyQt5, providing valuable insights into variability issues in process manufacturing and offering guidance to users for appropriate process adjustments.",
+                "Earned recognition for the prototype's capability in elevating business value of the product."
             ],
             "languages": [
                 "Python", "PyQt5"
