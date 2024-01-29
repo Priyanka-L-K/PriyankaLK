@@ -27,7 +27,7 @@ const Footer = () => {
                         <div>
                             <AiFillLinkedin color={"#0077B5"} /> <t/>
                             <Link to="https://www.linkedin.com/in/priyanka-lakur/" target="_blank">
-                            Linked in
+                            LinkedIn
                             </Link>
                         </div>
 

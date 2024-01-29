@@ -20,12 +20,12 @@ const Home = () => {
 
     const languages = ["Python", "C", "C++", "Java"]
     const halfLanguages = ["JavaScript"]
-    const webTechnolgies = ["HTML", "CSS", "PHP", "PyQt5"]
+    const webTechnolgies = ["HTML", "CSS", "PHP"]
     const halfWebTechnolgies = ["React", "JavaScript"]
     const cloudTechnologies = ["AWS"]
     const dataScience = ["Data Analysis", "Data Visualization", "Data Modelling"]
     const database = ["MySQL", "Mongo DB"]
-    const tools = ["git", "Jupyter", "Microsoft Visual Studio", "VS Code", "Xcode", "Figma", "Eclipse", "Android Studio", "agile"]
+    const tools = ["git", "Jupyter", "Microsoft Visual Studio", "VS Code", "Xcode", "Figma", "Eclipse", "Android Studio", "Agile", "JUnit"]
 
     const leetcode_topics = ["Arrays", "Strings", "Linked List", " Two pointers", "Sorting", "Matrix", "Hash table", "Stack", "Queue", "Binary search", "Binary Search Tree", "Binary Tree", "Directed Graphs", "Undirected Graphs", "Depth First Search", "Breadth First Search"]
 
@@ -156,7 +156,7 @@ const Home = () => {
 
                         </div>
 
-                        <Link to="https://28e8b3e1-a673-4705-975a-719f84845826.filesusr.com/ugd/c31104_c5f65e748c224c74bd6a7ccb91ecf847.pdf" target="_blank">
+                        <Link to="https://c31104fa-0e1b-42f1-b5e8-80fd49444711.usrfiles.com/ugd/c31104_bf6adaf42ed545dba1f36bbc7027952d.pdf" target="_blank">
 
                             <div className="button" style={{ float: "None" }}>
 

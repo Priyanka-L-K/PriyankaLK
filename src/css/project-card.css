@@ -23,9 +23,8 @@
 
 .project-card__body {
     padding-bottom: 0px;
-
+    height: 115px;
 }
-
 
 @media (max-width: 768px) {
     .project-card__title {

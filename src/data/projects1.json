@@ -13,7 +13,7 @@
           "startDate": "May 2022",
           "languages": ["Python", "Deep Learning"],
           "tools": ["Jupyter"],
-          "libraries": ["keras", "tensorflow", "pandas", "matplotlib", "NumPy"],
+          "libraries": ["Keras", "TensorFlow", "pandas", "matplotlib", "NumPy"],
           "links": [
             {
               "icon": "ieee",
@@ -155,6 +155,35 @@
             "<strong>OpenGL Utilization:</strong> The project relies on the OpenGL graphics library for rendering and animating the graphical elements."
           ],
           "project_impact": "This simulation has deepened my expertise in graphics programming, providing a hands-on education in OpenGL, rendering pipelines and 3D visualization. I've gained proficiency in solving complex problems related to graphics and honed my debugging skills. This project has not only improved my technical abilities but also instilled best practices in software engineering, emphasizing code organization and modularity. Additionally, I've gained valuable experience in project management. Creatively, this project allowed me to experiment with visual design and effects. Overall, it has enriched my portfolio, demonstrating my competence in graphics programming and equipping me with a broader skill set for future projects."
+        },
+        {
+          "id": "5",
+          "category":"Projects",
+          "project_name": "Sentiment Analysis Using Deep Learning",
+          "heading": "Hybrid Deep Learning Based Sentiment Analysis Using Natural Language Processing Methodology",
+          "tagline": "Decoding Emotions: Harnessing Hybrid Deep Learning for Powerful Sentiment Analysis through Natural Language Processing",
+          "thumbnail": "https://i.postimg.cc/SsPrWzDL/Learn-How-to-Do-Sentiment-With-Deep-Learning-Thumbnail-02.png",
+          "startDate": "November 2023",
+          "languages": ["Python", "Deep Learning"],
+          "tools": ["Jupyter"],
+          "libraries": ["Keras", "TensorFlow", "PyTorch", "pandas", "matplotlib", "NumPy"],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": " ",
+              "color": "#292929"
+            }
+          ],
+          "main_image": "https://i.postimg.cc/SsPrWzDL/Learn-How-to-Do-Sentiment-With-Deep-Learning-Thumbnail-02.png",
+          "features": [
+            "<strong>Hybrid Model Comparative Analysis:</strong> The project introduces a comparative analysis of two hybrid models, CNN-LSTM and CNN-LSTM-Transformer, in the context of sentiment analysis. By evaluating their performance on distinct datasets and with different word embeddings, the research provides valuable insights into the strengths and weaknesses of these hybrid architectures, offering a nuanced perspective for researchers and practitioners in the field.",
+            "<strong>Performance Consistency Across Review Lengths:</strong> The project not only examines adaptability but also delves into the consistency of model performance across varying review lengths. It addresses whether the selected models and embeddings consistently maintain their efficacy in sentiment analysis tasks, providing nuanced insights into their reliability across different communication styles.",
+            "<strong>Word Embedding Strategies:</strong> The research employs three word embedding strategies Word2Vec and fastText individually to enhance contextual comprehension in sentiment analysis. This multifaceted approach allows a comprehensive evaluation of the impact of diverse word embedding methods on model performance.",
+            "<strong>Comparative Analysis Within Model Architectures:</strong> The study reveals performance variations within the same model architecture based on the choice of word embeddings. Notably, Word2Vec outperforms other embeddings in CNN-LSTM models, while FastText emerges as a dominant choice for CNN-LSTM-Transformer models. This nuanced analysis within model types adds depth to the understanding of model-behavior nuances.",
+            "<strong>Accuracies and Hyperparameter Integration:</strong> The project's revelation of performance variations, such as Word2Vec outperforming FastText in CNN-LSTM models, underscores the pivotal role of choosing appropriate embeddings. With accuracies like Word2Vec's 88.01% on IMDb Movie Reviews and FastText's 87.02% on the CNN-LSTM-Transformer IMDb model, these metrics provide a quantitative understanding of the embedding impact. Furthermore, the integration of hyperparameters like Batch Normalization, L2 regularization, and Early Stopping signifies a nuanced approach to optimize models, offering a pathway to improve sentiment analysis outcomes."
+          ],
+          "project_impact": "This project has expanded my proficiency in sentiment analysis, immersing me in the intricacies of hybrid models such as CNN-LSTM and CNN-LSTM-Transformer. Through hands-on exploration, I've deepened my understanding of embedding strategies, witnessing notable accuracies like Word2Vec's 88.01% and FastText's 87.02%. The integration of hyperparameters has honed my optimization skills, providing a practical approach to enhancing sentiment analysis outcomes. Beyond technical growth, this project has enriched my decision-making capabilities in selecting models and embeddings, contributing to a more comprehensive skill set for future endeavors in natural language processing and Deep Learning"
         }
       ]
     }

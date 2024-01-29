@@ -173,7 +173,7 @@ const Home = () => {
 
                         </div>
 
-                        <Link to="https://28e8b3e1-a673-4705-975a-719f84845826.filesusr.com/ugd/c31104_c5f65e748c224c74bd6a7ccb91ecf847.pdf" target="_blank">
+                        <Link to="https://c31104fa-0e1b-42f1-b5e8-80fd49444711.usrfiles.com/ugd/c31104_bf6adaf42ed545dba1f36bbc7027952d.pdf" target="_blank">
 
                             <div className="button" style={{ float: "None" }}>
 
