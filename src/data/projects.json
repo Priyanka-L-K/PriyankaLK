@@ -10,7 +10,7 @@
           "heading": "Real-Time Stock Market Data Streaming System",
           "tagline": "Harnessing the Power of Real-Time Data for Financial Market Insights",
           "thumbnail": "https://i.postimg.cc/nrT3FYZC/Stock-market-analysis.jpg",
-          "startDate": "May 2023",
+          "startDate": "March 2024",
           "languages": ["Python", "SQL"],
           "tools": ["Apache Kafka", "Zookeeper", "AWS EC2", "S3", "IAM", "Glue", "Athena"],
           "libraries": [
@@ -50,7 +50,7 @@
           "heading": "IPL Data Analysis and Insights",
           "tagline": "Unlocking Performance Metrics for IPL Teams and Players",
           "thumbnail": "https://i.postimg.cc/8zR4S05c/Cricket-Premiere-League.png",
-          "startDate": "March 2023",
+          "startDate": "May 2024",
           "languages": ["Python", "SQL"],
           "tools": ["AWS S3", "Databricks", "Apache Spark", "PySpark"],
           "libraries": [
@@ -122,7 +122,7 @@
           "heading": "Population Dashboard App",
           "tagline": "Interactive Visualization of US Population Trends",
           "thumbnail": "https://i.postimg.cc/bNr31rd0/population-dashboard.png",
-          "startDate": "January 2023",
+          "startDate": "May 2024",
           "languages": ["Python"],
           "tools": ["Streamlit Cloud", "NumPy", "Pandas", "Scikit-Learn"],
           "libraries": [
@@ -160,7 +160,7 @@
           "heading": "Contact Manager Application",
           "tagline": "Efficient Contact Management with React and NodeJS",
           "thumbnail": "https://i.imgur.com/thumbnail11.png",
-          "startDate": "April 2023",
+          "startDate": "April 2024",
           "languages": ["JavaScript"],
           "tools": ["ReactJS", "NodeJS", "Semantic UI"],
           "libraries": [
@@ -263,7 +263,7 @@
           "heading": "Flask RESTful API for Product Management",
           "tagline": "Robust Product Management with RESTful Web Services",
           "thumbnail": "https://i.imgur.com/thumbnail8.png",
-          "startDate": "December 2023",
+          "startDate": "February 2024",
           "languages": ["Python"],
           "tools": ["Flask", "Postman", "Curl"],
           "libraries": [
@@ -328,7 +328,7 @@
           "heading": "Multi-threading File Management and Computation System",
           "tagline": "Efficient File Management and Computation with Multi-threading",
           "thumbnail": "https://i.postimg.cc/4xNZ6zVL/multi.avif",
-          "startDate": "November 2023",
+          "startDate": "January 2024",
           "languages": ["Java"],
           "tools": ["RPC", "MySQL"],
           "libraries": [
@@ -365,7 +365,7 @@
           "heading": "Hybrid Deep Learning Based Sentiment Analysis Using Natural Language Processing Methodology",
           "tagline": "Decoding Emotions: Harnessing Hybrid Deep Learning for Powerful Sentiment Analysis through Natural Language Processing",
           "thumbnail": "https://i.postimg.cc/SsPrWzDL/Learn-How-to-Do-Sentiment-With-Deep-Learning-Thumbnail-02.png",
-          "startDate": "November 2023",
+          "startDate": "December 2023",
           "languages": ["Python", "Deep Learning"],
           "tools": ["Jupyter"],
           "libraries": ["Keras", "TensorFlow", "PyTorch", "pandas", "matplotlib", "NumPy"],
@@ -433,7 +433,7 @@
           "heading": "Network Protocol Analysis and Security Assessment",
           "tagline": "In-depth Network Protocol Analysis and Security Solutions",
           "thumbnail": "https://i.postimg.cc/d06sM5vK/networks.jpg",
-          "startDate": "October 2023",
+          "startDate": "February 2024",
           "languages": ["Python"],
           "tools": ["Wireshark", "Cisco Packet Tracer"],
           "libraries": [
