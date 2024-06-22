@@ -39,9 +39,7 @@ const LinkBadge = ({ websiteLink, linkname, icon, color }) => {
                 return <SiIeee color="white" size={14} />;
             case "react":
                 return <RiGlobalLine size={14} color="white" />;
-            case "streamlit":
-                return <img src={StreamlitIcon} alt="Streamlit Icon" style={{ color: "white", width: 14, height: 14 }} />;
-                case "website":
+            case "website":
                     return <FaGlobe color="white" size={14} />;
             default:
                 return null;
