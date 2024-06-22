@@ -96,17 +96,7 @@ const ProjectDetail = () => {
 
                     {project.project_impact}
                 </div>
-
-
-
-
-
             </div>
-
-
-
-
-
         </div>
     )
 }
