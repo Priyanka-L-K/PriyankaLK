@@ -2,13 +2,60 @@
     "works": [
         {
             "_id": 0,
-            "company_name": "Aspen Technology, Houston",
+            "company_name": "University of Texas at Arlington, United States",
+            "role_name": "Graduate Teaching Assistant",
+            "start_date": "January 2024",
+            "end_date": "May 2024",
+            "achievements": [
+                "Involved in leading discussions and provided one-on-one assistance for graduate students enrolled in Machine Learning course, resulting in improved understanding of intricate concepts and algorithms.",
+                "Took on leadership roles in mentoring and guiding students through complex course material.",  
+                "Evaluated and graded assignments, providing constructive feedback to students to aid in their learning."
+            ],
+            "languages": [
+                "Python"
+            ],
+            "tools": [
+              "Visual Studio Code", "MS Excel", "Jupyter Notebook"
+            ],
+            "libraries": [
+                "TensorFlow",
+                "Keras",
+                "NumPy",
+                "Pandas",
+                "seaborn",
+                "scikit-learn",
+                "matplotlib"
+            ],
+            "links": [
+                {
+                    "icon": "university",
+                    "linkname": "company website",
+                    "website_link": "https://www.uta.edu/",
+                    "color": "#868686"
+                },
+                {
+                    "icon": "blog",
+                    "linkname": "blog",
+                    "website_link": "https://www.uta.edu/research/opportunities/graduate-research",
+                    "color": "#868686"
+                },
+                {
+                    "icon": "news",
+                    "linkname": "news",
+                    "website_link": "https://www.uta.edu/news",
+                    "color": "#868686"
+                }
+            ]
+        },
+        {
+            "_id": 1,
+            "company_name": "Aspen Technology, United States",
             "role_name": "Software Developer Intern",
             "start_date": "May 2023",
             "end_date": "August 2023",
             "achievements": [
-                "Implemented a proof of concept (POC) prototype for an early warning system, achieving a 10% reduction in offspec production and demonstrated its success through precise alerts for process health, contributing to continuous optimization.",
-                "Engineered a proactive Machine Learning optimization algorithm, by integrating Artificial Intelligence capabilities to enable continuous optimization of operations and providing actionable insights to address potential issues before impacting production KPIs.",
+                "Collaborated in a cross functional team to design and implement a data-driven proof of concept (POC) prototype for an early warning system, contributing to a 10% reduction in off-spec production and demonstrated its success through precise alerts for process health, contributing to continuous optimization.", 
+                "Developed a proactive Machine Learning optimization algorithm by incorporating Artificial Intelligence capabilities. Gained hands-on experience in addressing potential issues proactively, positively impacting production KPIs through actionable insights.", 
                 "Integrated and tested the prototype built using PyQt5, providing valuable insights into variability issues in process manufacturing and offering guidance to users for appropriate process adjustments.",
                 "Earned recognition for the prototype's capability in elevating business value of the product."
             ],
@@ -47,7 +94,7 @@
             ]
         },
         {
-            "_id": 1,
+            "_id": 2,
             "company_name": "Sparks Foundation, India",
             "role_name": "Data Science Intern",
             "start_date": "July 2021",
@@ -59,7 +106,7 @@
             ],
             "impact": "impacts",
             "languages": ["Python"],
-            "tools": ["Jupyter", "Visual Studio Code"],
+            "tools": ["Tableau", "Jupyter", "Visual Studio Code"],
             "libraries": [
                 "scikit-learn",
                 "matplotlib",
