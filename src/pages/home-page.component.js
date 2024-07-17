@@ -109,6 +109,11 @@ const Home = () => {
                             </svg>
                         </a>
                     </div>
+                    <div className="link-button">
+                        <a href="https://public.tableau.com/app/profile/priyanka.lakur.krishnamurthy/vizzes" target="_blank" rel="noopener noreferrer">
+                            <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software" style={{width: window.innerWidth <= 768 ? '20px' : '30px', height: window.innerWidth <= 768 ? '20px' : '30px'}}/>
+                        </a>
+                    </div>
                 </div>
             </div>
 
@@ -158,7 +163,7 @@ const Home = () => {
                                 <TagList tags={cloudTechnologies} className="cloud-tag" />
 
                                 <div className="section-sub-heading">
-                                    Data Engineering
+                                    Big Data Engineering
                                 </div>
                                 <TagList tags={dataEngineeering} className="dataEngineeering-tag" />
 
