@@ -32,7 +32,11 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/nrT3FYZC/Stock-market-analysis.jpg",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/rms2C7gq/Architecture.jpg",
+              "description": "Architecture"
+            }],
           "features": [
             "<strong>Data Pipeline:</strong> Real-time data pipeline using Apache Kafka for efficient data streaming.",
             "<strong>Coordination:</strong> Zookeeper for real-time data coordination.",
@@ -72,7 +76,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/8zR4S05c/Cricket-Premiere-League.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/8zR4S05c/Cricket-Premiere-League.png"
+            }],
           "features": [
             "<strong>ETL Pipeline:</strong> Implemented using Apache Spark on Databricks.",
             "<strong>Data Transformations:</strong> Performed using PySpark and Spark SQL.",
@@ -100,7 +107,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/g0gFyWBs/project2.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/g0gFyWBs/project2.png"
+            }],
           "features": [
             "<strong>Data Collection:</strong> The project gathers comprehensive data on used cars from various sources, including attributes like make, model, year, mileage, and condition.",
             "<strong>Machine Learning Models: </strong> It employs machine learning algorithms to build predictive models for estimating used car prices, enabling accurate pricing predictions.",
@@ -109,7 +119,46 @@
             "<strong>Continuous Learning: </strong> The project is structured to facilitate ongoing learning and model improvement as new data becomes available and as machine learning techniques evolve."
           ],
           "project_impact": "This project has had a profound impact on my skills and knowledge. Working on AutoPrice: Predicting Used Car Prices has allowed me to deepen my understanding of machine learning algorithms, data preprocessing techniques, and model evaluation. I've honed my skills in Python programming, data manipulation, and feature engineering. Additionally, I've gained valuable experience in data visualization to communicate results effectively. Furthermore, the project has improved my ability to handle large datasets and implement complex machine learning models. Overall, AutoPrice has significantly enhanced my proficiency in machine learning and data science, making me better equipped to tackle real-world predictive modeling challenges."
-        }
+        },
+        {
+          "id": "3",
+          "category": "Data Analysis",
+          "project_name": "Uber ETL Pipeline Data Analysis and Visualization Project",
+          "heading": "Uber Ride data ETL Pipeline with Data Analysis and Visualization using GCP and Looker Studio",
+          "tagline": "Optimizing Uber Ride Data Insights with GCP",
+          "thumbnail": "https://i.postimg.cc/0j2QRt8Q/uberd.png",
+          "startDate": "June 2024",
+          "languages": ["SQL"],
+          "tools": ["Google Cloud Platform", "Compute Engine", "Cloud Storage", "BigQuery", "Looker Studio", "Mage"],
+          "libraries": [],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "GitHub",
+              "website_link": "https://github.com/Priyanka-L-K/Uber-ride-data-etl-pipeline/tree/main",
+              "color": "#292929"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://i.postimg.cc/Z52g302K/architecture.jpg",
+              "description": "Architecture"
+            },
+            {
+              "url":"https://i.postimg.cc/902zfmCL/data-model.jpg",
+              "description":"Data Modeling"
+            },
+            {
+              "url":"https://i.postimg.cc/0j2QRt8Q/uberd.png",
+              "description":"Dashboard"
+            }],
+          "features": [
+            "<strong>End-to-End Data Pipeline:</strong> Implemented a comprehensive data pipeline on Google Cloud Platform (GCP) integrating Compute Engine, Cloud Storage, and BigQuery.",
+            "<strong>ETL Workflow Optimization:</strong> Developed efficient ETL workflows using Mage Tool for data extraction, transformation, and loading into BigQuery, optimizing data processing.",
+            "<strong>Interactive Dashboards:</strong> Created interactive dashboards in Looker Studio to visualize Uber ride patterns, driver performance, and customer behavior, facilitating data-driven decision-making."
+          ],
+          "project_impact": "The Uber Data Analysis and Visualization Project enhanced operational efficiency at Uber by providing real-time insights into ride data, improving decision-making processes, and optimizing resource utilization on GCP."
+        }        
       ]
     },
     {
@@ -144,7 +193,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/bNr31rd0/population-dashboard.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/bNr31rd0/population-dashboard.png"
+            }],
           "features": [
             "<strong>Interactive Dashboard:</strong> Developed using Streamlit Cloud.",
             "<strong>Data Visualization:</strong> Visualizing US population data from 2010 to 2019.",
@@ -184,7 +236,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.imgur.com/main_image11.png",
+          "images": [
+            {
+              "url": "https://i.imgur.com/main_image11.png"
+            }],
           "features": [
             "<strong>Component-Based Architecture:</strong> Developed using React for enhanced user interaction.",
             "<strong>Client-Side Routing:</strong> Implemented using React Router.",
@@ -200,7 +255,7 @@
           "project_name": "Arlington Sprouts Database Management System",
           "heading": "Arlington Sprouts Database Management System",
           "tagline": "Efficient Sprouts Data Organization and Management",
-          "thumbnail": "https://i.imgur.com/thumbnail9.png",
+          "thumbnail": "https://i.postimg.cc/nrTnvPXx/Screen-Shot-2024-07-16-at-11-24-24-PM.png",
           "startDate": "February 2024",
           "languages": ["HTML", "CSS", "JavaScript", "PHP"],
           "tools": ["MySQL", "XAMPP"],
@@ -212,11 +267,19 @@
             {
               "icon": "github",
               "linkname": "github",
-              "website_link": "https://github.com/username/sprouts-database",
+              "website_link": "https://github.com/Priyanka-L-K/Sprouts-Database-Management-System",
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.imgur.com/main_image9.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/nrTnvPXx/Screen-Shot-2024-07-16-at-11-24-24-PM.png",
+              "description": "Website"
+            },
+            {
+              "url": "https://i.postimg.cc/J4JfVgrz/Screen-Shot-2024-07-16-at-11-26-02-PM.png",
+              "description": "Database"            
+            }],
           "features": [
             "<strong>Database System:</strong> MySQL-based for organizing sprouts data.",
             "<strong>PHP Scripts:</strong> Secure data processing and integrity.",
@@ -245,7 +308,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/W3w4R3Sv/Screen-Shot-2023-09-23-at-8-24-39-PM.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/W3w4R3Sv/Screen-Shot-2023-09-23-at-8-24-39-PM.png"
+            }],
           "features": [
             "<strong>Parking Space Management: </strong> The application should have the ability to manage and monitor parking spaces, including real-time updates on availability, occupancy, and duration of use.",
             "<strong>User Registration: </strong> Users should be able to register with the application, which can include creating an account and providing necessary information such as name, email address, and payment information.",
@@ -279,7 +345,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.imgur.com/main_image8.png",
+          "images": [
+            {
+              "url": "https://i.imgur.com/main_image8.png"
+            }],
           "features": [
             "<strong>CRUD Operations:</strong> Efficiently manage product database using unique product IDs.",
             "<strong>Testing:</strong> Utilized cURL and POSTMAN for endpoint testing.",
@@ -306,7 +375,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/qMhYtnT1/Screen-Shot-2023-09-23-at-6-24-48-PM.png"
+            }],
           "features": [
             "<strong>Menu Management: </strong> Easily create, update, and manage the restaurant's menu items, including details like names, descriptions, prices, ingredients, and availability status.",
             "<strong>Order Processing: </strong> Streamline the order-taking process, from receiving customer orders through various channels (dine-in, takeout, online) to sending them to the kitchen or bar for preparation.",
@@ -324,35 +396,90 @@
         {
           "id": "0",
           "category": "Distributed Systems and Computing",
-          "project_name": "Multi-threading File Management and Computation System",
-          "heading": "Multi-threading File Management and Computation System",
-          "tagline": "Efficient File Management and Computation with Multi-threading",
+          "project_name": "Two-Phase Commit Protocol Implementation",
+          "heading": "Fault-Tolerant Two-Phase Commit Protocol",
+          "tagline": "Robust Distributed Transaction Management with Failure Handling",
           "thumbnail": "https://i.postimg.cc/4xNZ6zVL/multi.avif",
           "startDate": "January 2024",
-          "languages": ["Java"],
+          "languages": ["Python"],
           "tools": ["RPC", "MySQL"],
           "libraries": [
-            "java.util.concurrent",
-            "java.net",
-            "mysql-connector-java"
+            "socket", "threading", "time"
           ],
           "links": [
             {
               "icon": "github",
               "linkname": "github",
-              "website_link": "https://github.com/username/multithreading-file-management",
+              "website_link": "https://github.com/Priyanka-L-K/Two-Phase-Commit-Protocol-Implementation",
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/4xNZ6zVL/multi.avif",
-          "features": [
-            "<strong>File Server:</strong> Multi-threaded file server with file management operations.",
-            "<strong>Storage Service:</strong> Synchronized storage service resembling Dropbox.",
-            "<strong>Computation Server:</strong> Using synchronous and asynchronous RPCs.",
-            "<strong>RPC Communication:</strong> Showcased server-client interactions."
-          ],
-          "project_impact": "This project demonstrates proficiency in distributed systems and multi-threading, showcasing the ability to develop efficient file management and computation systems."
-        }
+          "images": [
+            {
+              "url": "https://i.postimg.cc/4xNZ6zVL/multi.avif"
+            }],
+            "features": [
+              "<strong>Fault-Tolerant 2PC:</strong> Implementation of the two-phase commit protocol with failure handling.",
+              "<strong>Multiple Nodes:</strong> One transaction coordinator and multiple participant nodes.",
+              "<strong>Failure Scenarios:</strong> Handling various node crash scenarios during the commit process.",
+              "<strong>Timeout Mechanism:</strong> Implemented for both coordinator and participant nodes.",
+              "<strong>Persistent Storage:</strong> Transaction information stored on disk for recovery purposes."
+            ],
+            "project_impact": "This project showcases expertise in distributed systems design, fault tolerance implementation, and protocol development. It demonstrates the ability to handle complex failure scenarios in distributed transactions, essential for building robust and reliable distributed applications."
+          },
+          {
+            "id": "1",
+            "category": "Distributed Systems and Computing",
+            "project_name": "File Synchronization and Computation System",
+            "heading": "File Synchronization and Computation System",
+            "tagline": "Efficient File Management and Computation with RPC",
+            "thumbnail": "https://i.postimg.cc/TwjzFdzx/Screen-Shot-2024-07-17-at-12-29-56-AM.png",
+            "startDate": "February 2024",
+            "languages": ["Python"],
+            "tools": ["gRPC"],
+            "libraries": [
+              "python-rpc-library",
+              "os",
+              "time"
+            ],
+            "links": [
+              {
+                "icon": "github",
+                "linkname": "github",
+                "website_link": "https://github.com/Priyanka-L-K/File-Synchronization-and-Computation-System",
+                "color": "#292929"
+              }
+            ],
+            "images": [
+              {
+                "url": "https://i.postimg.cc/s2RFfG9S/Screen-Shot-2024-07-17-at-12-19-27-AM.png",
+                "description": "Synchronous File Upload and Server Synchronization"
+              },
+              {
+                "url": "https://i.postimg.cc/50JWNQJT/Screen-Shot-2024-07-17-at-12-23-03-AM.png",
+                "description": "Synchronous Updation of Contents in Files"
+              },
+              {
+                "url": "https://i.postimg.cc/J021n7PX/Screen-Shot-2024-07-17-at-12-25-34-AM.png",
+                "description": "Client-Side File Renaming with Server Reflection"
+              },
+              {
+                "url": "https://i.postimg.cc/3rCfHbdK/Screen-Shot-2024-07-17-at-12-27-48-AM.png",
+                "description": "Client-Side File Deletion and Server Synchronization"
+              },
+              {
+                "url": "https://i.postimg.cc/hvktsPTB/Screen-Shot-2024-07-17-at-12-28-47-AM.png",
+                "description": "Asynchronous and Synchronous Computation Results"
+              }
+            ],
+            "features": [
+              "<strong>File Operations:</strong> Upload, rename, delete, and download files with server synchronization.",
+              "<strong>Computation Operations:</strong> Synchronous and asynchronous addition and sorting.",
+              "<strong>RPC Communication:</strong> Efficient client-server interaction using Remote Procedure Calls.",
+              "<strong>Robust Synchronization:</strong> Implemented solutions for file renaming and asynchronous result management."
+            ],
+            "project_impact": "This project demonstrates proficiency in distributed systems, RPC communication, and asynchronous programming, showcasing the ability to develop efficient file synchronization and computation systems."
+          }
       ]
     },
     {
@@ -377,7 +504,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/SsPrWzDL/Learn-How-to-Do-Sentiment-With-Deep-Learning-Thumbnail-02.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/SsPrWzDL/Learn-How-to-Do-Sentiment-With-Deep-Learning-Thumbnail-02.png"
+            }],
           "features": [
             "<strong>Hybrid Model Comparative Analysis:</strong> The project introduces a comparative analysis of two hybrid models, CNN-LSTM and CNN-LSTM-Transformer, in the context of sentiment analysis. By evaluating their performance on distinct datasets and with different word embeddings, the research provides valuable insights into the strengths and weaknesses of these hybrid architectures, offering a nuanced perspective for researchers and practitioners in the field.",
             "<strong>Performance Consistency Across Review Lengths:</strong> The project not only examines adaptability but also delves into the consistency of model performance across varying review lengths. It addresses whether the selected models and embeddings consistently maintain their efficacy in sentiment analysis tasks, providing nuanced insights into their reliability across different communication styles.",
@@ -412,7 +542,10 @@
               "color": "#20BEFF"
             }
           ],
-          "main_image": "https://i.postimg.cc/kgQGN2Cm/project1.png",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/kgQGN2Cm/project1.png"
+            }],
           "features": [
             "<strong>Deep Learning Models:</strong> Utilizing Deep Neural Networks (DNNs), Restricted Boltzmann Machines (RBMs), and Autoencoders as the core recommendation algorithms, allowing for comprehensive exploration of different approaches within deep learning.",
             "<strong>Implicit and Explicit Feedback:</strong> Handling both implicit feedback (e.g., user interactions like clicks and views) and explicit feedback (e.g., user ratings) to provide well-rounded recommendations.",
@@ -420,6 +553,40 @@
             "<strong>Cold Start Handling:</strong> Addressing the cold start problem by implementing strategies that allow the models to provide recommendations for new users and items with limited historical data."
           ],
           "project_impact": "As the developer of this recommendation system project with deep learning, this endeavor has profoundly shaped my professional journey. It's been a crucible for advancing my skills in machine learning and neural networks, propelling me forward in my career. The constant innovation and intricate problem-solving required have kept me intellectually engaged and driven, while collaborative efforts with diverse experts have broadened my horizons. The sense of ownership over the project, coupled with the tangible impact on user experiences and business outcomes, fuels my passion for this work. The ability to quantify success through metrics and the continuous learning opportunities have been invaluable, making this project a pivotal chapter in my development career, fostering personal and professional growth."
+        },
+        {
+          "id": "2",
+          "category": "Machine Learning and Computer Vision",
+          "project_name": "Handwritten Digit Recognition Using LeNet-5",
+          "heading": "Handwritten Digit Recognition Using LeNet-5 Architecture",
+          "tagline": "Decoding Handwritten Digits: Leveraging LeNet-5 for Accurate Image Classification",
+          "thumbnail": "https://i.postimg.cc/rsHJmZsf/Screen-Shot-2024-07-17-at-12-50-48-AM.png",
+          "startDate": "January 2024",
+          "languages": ["Python"],
+          "tools": ["Jupyter Notebook"],
+          "libraries": ["Keras", "TensorFlow", "NumPy", "Matplotlib"],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/Priyanka-L-K/Handwritten-Digit-Recognition-Using-LeNet-5",
+              "color": "#292929"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://i.postimg.cc/rsHJmZsf/Screen-Shot-2024-07-17-at-12-50-48-AM.png",
+              "description": "Architecture"
+            }
+          ],
+          "features": [
+            "<strong>LeNet-5 Architecture Implementation:</strong> Successfully implemented the LeNet-5 convolutional neural network architecture, demonstrating proficiency in designing and building complex deep learning models for image classification tasks.",
+            "<strong>MNIST Dataset Utilization:</strong> Leveraged the MNIST dataset, a benchmark in the field of computer vision, for training and testing the model, showcasing the ability to work with standard datasets in machine learning projects.",
+            "<strong>High Classification Accuracy:</strong> Achieved an impressive 98.5% classification accuracy through meticulous model training and optimization, highlighting the effectiveness of the implemented solution in recognizing handwritten digits.",
+            "<strong>Data Augmentation Techniques:</strong> Applied various data augmentation techniques to enhance the model's generalization capabilities and improve its performance on diverse handwritten digit samples.",
+            "<strong>Hyperparameter Tuning:</strong> Conducted thorough hyperparameter tuning to optimize the model's performance, demonstrating skills in fine-tuning deep learning models for maximum efficiency and accuracy."
+          ],
+          "project_impact": "This project has significantly enhanced my expertise in deep learning and computer vision. It has provided hands-on experience in implementing and optimizing convolutional neural networks, particularly the LeNet-5 architecture. The process of achieving high classification accuracy through data augmentation and hyperparameter tuning has deepened my understanding of model optimization techniques. Furthermore, working with the MNIST dataset and popular frameworks like TensorFlow and Keras has strengthened my practical skills in developing real-world machine learning solutions. This project serves as a solid foundation for tackling more complex image recognition tasks and contributes to my growing portfolio in the field of artificial intelligence and computer vision."
         }
       ]
     },
@@ -447,7 +614,10 @@
               "color": "#292929"
             }
           ],
-          "main_image": "https://i.postimg.cc/d06sM5vK/networks.jpg",
+          "images": [
+            {
+              "url": "https://i.postimg.cc/d06sM5vK/networks.jpg"
+            }],
           "features": [
             "<strong>Protocol Analysis:</strong> TCP/IP, UDP, DNS, and OSPF.",
             "<strong>Performance Evaluation:</strong> Bandwidth utilization, error handling, throughput, latency, and jitter.",
@@ -456,6 +626,83 @@
           "project_impact": "This project highlights expertise in network protocol analysis and security assessment, demonstrating the ability to evaluate and enhance network performance and security."
         }
       ]
-    }
+    },
+    {
+      "name": "Tableau",
+      "projects": [
+        {
+          "id": "0",
+          "category": "Tableau",
+          "project_name": "Electric Vehicle Data Analysis Dashboard",
+          "heading": "Electric Vehicle Data Analysis Dashboard",
+          "tagline": "Dynamic EV Data Visualization and Analysis",
+          "thumbnail": "https://i.postimg.cc/C5qN4tYX/Screen-Shot-2024-07-16-at-4-19-48-PM.png",
+          "startDate": "February 2024",
+          "languages": ["SQL"],
+          "tools": ["Tableau", "Excel"],
+          "libraries": [],
+          "links": [
+            {
+              "icon": "tableau",
+              "linkname": "tableau",
+              "website_link": "https://public.tableau.com/app/profile/priyanka.lakur.krishnamurthy/viz/ElectricVehicleDataAnalysis_17205376995380/Dashboard1",
+              "color": "#292929"
+            }
+          ],
+          "images": [
+            {
+              "url": "https://i.postimg.cc/C5qN4tYX/Screen-Shot-2024-07-16-at-4-19-48-PM.png"
+            }],
+          "features": [
+            "<strong>Interactive Dashboard:</strong> Designed and implemented an interactive Tableau dashboard for electric vehicle data analysis featuring dynamic filters, drill-downs, and custom parameters.",
+            "<strong>Data Cleaning and Transformation:</strong> Executed comprehensive data cleaning and transformation processes using Excel and SQL to ensure data integrity and seamless dashboard integration.",
+            "<strong>Actionable Insights:</strong> Generated actionable insights on EV adoption trends, top-performing models, and geographic distribution, enabling data-driven strategic planning.",
+            "<strong>Performance Metrics:</strong> Visualized key performance metrics such as sales growth, market penetration, and regional distribution of electric vehicles.",
+            "<strong>User-Friendly Interface:</strong> Developed a user-friendly interface that allows users to easily navigate through the data and customize their views according to their needs.",
+            "<strong>Custom Parameters:</strong> Utilized custom parameters to allow users to interactively modify the visualizations and analyze specific subsets of the data."
+          ],
+          "project_impact": "This project enabled data-driven strategic planning by providing in-depth insights into electric vehicle adoption, performance metrics, and regional distributions. The interactive features and custom parameters allowed users to derive specific, actionable insights tailored to their needs, demonstrating advanced skills in data visualization and analysis."
+        },
+        {
+          "id": "1",
+          "category": "Tableau",
+          "project_name": "Sales and Customer Analytics Dashboard",
+          "heading": "Sales and Customer Analytics Dashboard",
+          "tagline": "Comprehensive Sales and Customer Data Analysis",
+          "thumbnail": "https://i.postimg.cc/6pqp8N09/Screen-Shot-2024-07-16-at-4-31-02-PM.png",
+          "startDate": "March 2024",
+          "languages": ["SQL"],
+          "tools": ["Tableau", "Excel"],
+          "libraries": [],
+          "links": [
+            {
+              "icon": "github",
+              "linkname": "github",
+              "website_link": "https://github.com/username/sales-customer-dashboard",
+              "color": "#292929"
+            }
+          ],
+          "images": [
+            {
+              "description": "Sales Dashboard",
+              "url": "https://i.postimg.cc/6pqp8N09/Screen-Shot-2024-07-16-at-4-31-02-PM.png"
+            },
+            {
+              "description": "Customer Dashboard",
+              "url": "https://i.postimg.cc/ncJJ8f5d/Screen-Shot-2024-07-16-at-4-36-35-PM.png"
+            }
+          ],
+          "features": [
+            "<strong>Interactive Dashboard:</strong> Created a comprehensive Tableau dashboard for sales and customer data analysis with interactive features including dynamic filters and drill-downs. Users can switch between sales and customer dashboards using icons.",
+            "<strong>Data Cleaning and Integration:</strong> Conducted thorough data cleaning and integration of multi-year CSV files from internal databases using Tableau's data preparation tools.",
+            "<strong>Key Sales Trends:</strong> Uncovered key sales trends and customer insights, directly contributing to improved total sales, increased profit, and accelerated customer growth.",
+            "<strong>Performance Metrics:</strong> Visualized essential sales metrics such as revenue growth, customer acquisition rates, and product performance.",
+            "<strong>Customer Segmentation:</strong> Implemented customer segmentation analysis to identify high-value customer groups and target marketing efforts effectively.",
+            "<strong>Sales Forecasting:</strong> Utilized historical sales data to create predictive models for future sales forecasting."
+          ],
+          "project_impact": "This project provided valuable insights into sales and customer behaviors, enabling data-driven decision-making that led to increased sales, higher profits, and enhanced customer growth. The interactive and comprehensive dashboard allowed stakeholders to easily access and interpret critical sales data. Users can effortlessly switch between sales and customer views, making the analysis process more intuitive and efficient."
+        }
+      ]
+    }    
   ]
 }
