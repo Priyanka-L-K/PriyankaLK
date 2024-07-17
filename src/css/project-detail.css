@@ -27,20 +27,17 @@
     display: flex;
 }
 
-.features-content {
-
+.project-thumbnail {
+  width: 300px; /* Set the desired width */
+  height: 200px; /* Set the desired height */
+  object-fit: cover; /* Ensures the image covers the area while maintaining aspect ratio */
+  border: 1px solid #ddd; /* Optional: Add a border for better visibility */
+  margin-bottom: 20px; /* Optional: Add some spacing at the bottom */
 }
+
 
 .section-content{
     text-align: justify;
-}
-
-.project-image {
-    border-radius: 6px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    width: 90%;
-    box-shadow: 0 0 5px rgb(182, 182, 182);
 }
 
 @media (max-width:768px) {
