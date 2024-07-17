@@ -9,6 +9,7 @@ import {BiLogoPlayStore} from "react-icons/bi";
 import {TfiThought} from "react-icons/tfi";
 import {BsNewspaper} from "react-icons/bs";
 import {SiIeee} from "react-icons/si";
+import { SiTableau } from 'react-icons/si';
 
 const LinkBadge = ({ websiteLink, linkname, icon, color }) => {
     const handleClick = (event) => {
@@ -40,7 +41,9 @@ const LinkBadge = ({ websiteLink, linkname, icon, color }) => {
             case "react":
                 return <RiGlobalLine size={14} color="white" />;
             case "website":
-                    return <FaGlobe color="white" size={14} />;
+                return <FaGlobe color="white" size={14} />;
+            case "tableau":
+                return <SiTableau color="white" size={14} />;
             default:
                 return null;
         }
