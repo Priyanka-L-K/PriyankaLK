@@ -66,16 +66,13 @@ const Home = () => {
                                         .typeString("Software Developer")
                                         .pauseFor(1000)
                                         .deleteAll()
-                                        .typeString("Full stack developer")
-                                        .pauseFor(1000)
-                                        .deleteAll()
                                         .typeString("Data Analyst")
                                         .pauseFor(1000)
                                         .deleteAll()
-                                        .typeString("AI/ML Enthusiast")
+                                        .typeString("Full Stack Developer")
                                         .pauseFor(1000)
                                         .deleteAll()
-                                        .typeString("UI/UX Specialist")
+                                        .typeString("AI/ML Enthusiast")
                                         .start();
                                 }}
                                 style={{ zIndex: '0' }}
